@@ -1,0 +1,6 @@
+npm-debug.log
+yarn-error.log
+
+/.idea
+/miniprogram_npm
+/node_modules
